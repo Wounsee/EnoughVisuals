@@ -1,2 +1,2 @@
-BETA-1.1 critical
+BETA-1.2 critical
 FullBright
