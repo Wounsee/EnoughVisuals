@@ -1,2 +1,2 @@
-BETA-1.2 critical
+1.0 critical
 CustomHitBox
