@@ -1,2 +1,2 @@
-1.21.4-NEW-critical
+1.21.4-critical
 CustomHitBox
